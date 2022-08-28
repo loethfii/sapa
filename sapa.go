@@ -5,5 +5,5 @@ func Sapa() string {
 }
 
 type Alamat struct {
-	kelurahan, kecamatan, provinsi string
+	name string
 }
