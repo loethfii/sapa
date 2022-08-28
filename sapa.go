@@ -4,6 +4,14 @@ func Sapa() string {
 	return `Hello`
 }
 
-type Alamat struct {
-	name string
+type TanyaNama interface {
+	ohkamu()
+}
+
+type Nama struct {
+	nama string
+}
+
+func (n Nama) ohkamu() string {
+	return n.nama
 }
