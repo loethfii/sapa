@@ -1,7 +1,7 @@
 package sapa
 
-func Sapa() string {
-	return `Hello`
+func Sapa(nama) string {
+	return `Hello` + nama
 }
 
 type TanyaNama interface {
