@@ -1,6 +1,6 @@
 package sapa
 
-func Sapa(nama) string {
+func Sapa(nama string) string {
 	return `Hello` + nama
 }
 
