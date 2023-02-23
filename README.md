@@ -1,7 +1,7 @@
 # Aplikasi Keluhan Penyewa Kontrakan
 Aplikasi keluhan penyewa kontrakan adalah aplikasi berbasis web untuk mengadukan keluhan terkait fasilitas yang berkendala pada kontrakan atau apartement dll yang statusnya sewa, tujuannya untuk mempermudah penyewa properti mengadukan kendala secara langsung melalui aplikasi web yang disediakan.
 
-![Logo](https://imgur.com/lDQ7NPC)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/o3dmXI6" data-context="false" ><a href="//imgur.com/a/o3dmXI6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Link Website
 
